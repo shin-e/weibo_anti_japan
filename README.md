@@ -1,0 +1,1 @@
+# weibo_anti_japan
